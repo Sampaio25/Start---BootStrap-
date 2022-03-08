@@ -1,2 +1,9 @@
-# Start---BootStrap-
-Aprendendo a Mexer no GithHub e Projeto de introdução a layouts com Framework BootStrap 4.2
+# Controle das aulas de PW2
+
+**Aula do dia 08/03/2022**
+
+1. Criar uma conta no Git **OK**
+2. Criar um repositório **OK**
+3. Conectar o Git com o VSCODE **OK**
+4. Criar um projeto
+5. Subir os arquivos no Git
